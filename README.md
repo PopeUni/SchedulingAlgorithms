@@ -6,6 +6,11 @@ of datasets containing a number of processes with different arrival times and ex
 
 please refer to the 2 gantt charts provided to help visualize how each algorithm is sheduling the processes 
 
+**RESULTS**
+
+explaination of results:
+the results will display each time the scheduling algorithm switched over to a different process while executing
+the results will also display the average turnaround time and waiting time for each indiviual process
 
 
 **INSTRUCTIONS**
@@ -23,9 +28,5 @@ java A1 datafile1.txt
 java A1 datafile2.txt
 
 
-**RESULTS**
 
-explaination of results:
-the results will display each time the scheduling algorithm switched over to a different process while executing
-the results will also display the average turnaround time and waiting time for each indiviual process
 
