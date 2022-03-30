@@ -24,7 +24,9 @@ the results will also display the average turnaround time and waiting time for e
 4. Type java A1 *datafile.txt*
 
 examples
+
 java A1 datafile1.txt
+
 java A1 datafile2.txt
 
 
